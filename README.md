@@ -1,2 +1,1 @@
-# ecogreens
-electricity calculation application with kwh output and also rupiah
+Selamat datang di #Ecogreens! Aplikasi perhitungan listrik ini dibangun menggunakan Kotlin dan Jetpack Compose, dengan beberapa fitur masih dalam tahap pemeliharaan untuk meningkatkan kualitas penggunaan. Meskipun beberapa fitur sedang dalam perbaikan, #Ecogreens tetap menyediakan kemudahan bagi pengguna untuk menghitung konsumsi listrik dalam kWh dan konversi ke Rupiah dengan mudah. Temukan keuntungan energi hijau dan manfaat lingkungan dengan menggunakan #Ecogreens dalam pengelolaan konsumsi listrik Anda. Terima kasih atas kesabaran Anda saat kami terus meningkatkan aplikasi untuk pengalaman pengguna yang lebih baik.
